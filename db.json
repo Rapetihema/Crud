@@ -2,7 +2,7 @@
   "company": [
     {
       "id": 1,
-      "name": "NT Infotech",
+      "name": "NT Infotec",
       "empcount": "5500",
       "revenue": "2500000",
       "address": "1st street\nchennai\npin 600048",
@@ -33,20 +33,12 @@
       "id": 4
     },
     {
-      "name": "NT Infotech",
-      "empcount": "1000",
-      "revenue": "2000",
-      "address": "test",
+      "name": "ki",
+      "empcount": "5",
+      "revenue": "444",
+      "address": "rr",
       "isactive": true,
       "id": 5
-    },
-    {
-      "name": "NT Infotech",
-      "empcount": "1000",
-      "revenue": "2000",
-      "address": "test",
-      "isactive": true,
-      "id": 6
     }
   ]
 }
