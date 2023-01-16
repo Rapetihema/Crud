@@ -5,7 +5,7 @@
       "name": "NT Infotec",
       "empcount": "5500",
       "revenue": "2500000",
-      "address": "1st street\nchennai\npin 600048",
+      "address": "1st \npin ",
       "isactive": true
     },
     {
@@ -39,6 +39,14 @@
       "address": "rr",
       "isactive": true,
       "id": 5
+    },
+    {
+      "name": "cccc",
+      "empcount": "222",
+      "revenue": "222222222",
+      "address": "kkd",
+      "isactive": true,
+      "id": 7
     }
   ]
 }

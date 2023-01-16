@@ -9,7 +9,7 @@ import { companymodel } from '../Model/companymodel';
 export class ApiService {
 
   constructor(private http: HttpClient) { }
-  apiurl = 'http://localhost:3333/company';
+  apiurl = 'http://localhost:3000/company';
 
   Getallcomapny(): Observable<companymodel[]> {
     return this.http.get<companymodel[]>(this.apiurl);
